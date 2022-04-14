@@ -1,5 +1,5 @@
 # Spotify Song Recommender
-This project leverages spotify's api and provided user playlists to create and tune a neural network model that generates song recommendaitons based off of song data in provided playlists.  The notebook python files can be copied and used by anyone to create their own song-recommender using their song data.
+This project leverages spotify's api and provided user playlists to create and tune a neural network model that generates song recommendations based off of song data in provided playlists.  The notebook python files can be copied and used by anyone to create their own song-recommender using their song data.
 
 See the model notebook file for instructions on code usage.  As a general requirement, a user will need to have their own spotify account and spotify developer account (detailed steps in notebook).  The development account is free and easy to obtain.
 
