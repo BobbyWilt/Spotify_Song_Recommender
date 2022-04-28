@@ -9,5 +9,5 @@ If you have any questions or encounter any bugs, feel free to email me at: bobby
 
 Roadmap:
 1. Explore additional neural network model architectures
-2. Write article notebook operation and provide example playlists
+2. Write article on notebook operation and walk through sample data and analysis
 3. Update readme with visualizations and example playlists
