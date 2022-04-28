@@ -6,3 +6,8 @@ See the model notebook file for instructions on code usage.  As a general requir
 Currently the notebook file will be able to read, process, generate a model, generate song predictions, and visualize song data from user provided playlists.  You can currently use a simple or complex model to generate recommendations or tune your own.
 
 If you have any questions or encounter any bugs, feel free to email me at: bobbywilt1@gmail.com
+
+Roadmap:
+1. Explore additional neural network model architectures
+2. Write article notebook operation and provide example playlists
+3. Update readme with visualizations and example playlists
