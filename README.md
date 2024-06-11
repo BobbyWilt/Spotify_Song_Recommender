@@ -8,5 +8,6 @@ Currently the notebook file will be able to read, process, generate a model, gen
 If you have any questions or encounter any bugs, feel free to email me at: bobbywilt1@gmail.com
 
 Roadmap:
-1. Write article on notebook operation and walk through sample data and analysis
+1. Add updated code to github which includes pipeline for creating database, tuning 4 time-series based models and 2 sequential, integrating 6 model outputs into one model, generating recommendations, and output results.  New setup works on local setup only using wsl, but legacy code will be retained.
 2. Update readme with visualizations and example playlists
+3. Extend code functionaility to Colab
